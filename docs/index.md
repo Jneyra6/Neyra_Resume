@@ -2,82 +2,75 @@
 layout: cv
 title: Joseph Neyra's Resume
 ---
+__Joseph Neyra__
+_Understanding coding at a Macro level._
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://www.linkedin.com/in/jneyra/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2020 - April 2024`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
+• Minor in Data Science
+• Data Science Society
+• Wealth Management Society
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Work Experience
 
-- 4.0 Major GPA
+### Student Services Representative
 
+`August 2022 - Present`
+__BYU - I Pathway Connect Worldwide__, Rexburg, Idaho
 
-## Related Experience
+• Coordinated to build and follow a day by day regimented learning plan with limited guidance
+• Practiced detail oriented manner with ability to think through 100+ complex archives
+• Assessed customer needs, evaluate customer satisfaction and optimize customer services through Microsoft Dynamics 365
 
-### Internships
+### MC Early Morning Custodian
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - July 2022`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+• Developed habits to be highly motivated alone and collaboratively with different co-workers for three hours 
+• Communicated with 2+ higher level status to asses situations occurred in facility
+• Acknowledged important messages and not words from team leader meetings
 
-### Data Science Lead
+### Research Associate ( English/Spanish - Speaking)
+`February 2020 - May 2020`
+__Home Care Pulse__, Rexburg, Idaho
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+• Directed clients through series of questions while maintaining a professional countenance under a six minute call
+• Maintained a strong work ethic and good attitude on a daily basis
+• Adapted through differently cultured backgrounds and social situations when talking with one to two generations of families • Typed 55+ WPM while speaking with clients over phone under a six minute phone call
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Academic Projects
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Capsim: Andrew 44
+`April 2022 - July 2022`
+__BA 211: Business Fundamentals__
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+• Collected data from a virtual multi-millionaire company and organized data to make most profit for business 
+• Collaborated together in teams to run a simulated company must make critical business decisions
+• Understand fundamentals of marketing, finance, and operations (supply chain) management
 
-### Data Science Consulting Team
+### University Data
+`March 2022 - April 2022`
+__CIT 111: Introduction to Database__, 
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+• Found records from a raw data set and used star schema in SQL to build a network to find information
+• Applied a DBMS (Database Management System) and CASE (Computer-Aided Software Engineering) tool 
+• Transposed large amount of data with accuracy and speed within a months of work
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+## Technical Skills
+• SQL (Advance)
+• Python (Advance)
+• Microsoft Office Suite (Proficient)
+• Microsoft Dynamics CRM (Advance)
 
 <!-- ### Footer
 
