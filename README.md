@@ -9,18 +9,19 @@ Joseph Neyra
 	
 Business Analytics - Bachelor Of Science Degree	September 2020 - April 2024
 	
-Brigham Young University - Idaho	Rexburg, Idaho
-•	Minor in Data Science 
-•	Data Science Society
+Brigham Young University - Idaho
+Rexburg, Idaho
+•Minor in Data Science 
+•Data Science Society
  
 ## Work Experience
 	
 Student Services Representative	August 2022 - Present
 	
 BYU - I Pathway Connect Worldwide	Rexburg, Idaho
-•	Coordinated to build and follow a day by day regimented learning plan with limited supervision
-•	Practiced detail oriented manner with ability to think through 100+ complex archives
-•	Assessed customer needs, evaluate customer satisfaction and optimize customer services through Microsoft Dynamics 365 in English and Spanish
+•Coordinated to build and follow a day by day regimented learning plan with limited supervision
+•Practiced detail oriented manner with ability to think through 100+ complex archives
+•Assessed customer needs, evaluate customer satisfaction and optimize customer services through Microsoft Dynamics 365 in English and Spanish
  
 ## Academic Projects
 	
