@@ -1,7 +1,9 @@
 # md-resume
 
 Joseph Neyra
-8016981255 • joseph12317916@gmail.com • www.linkedin.com/in/jneyra
+8016981255
+• joseph12317916@gmail.com 
+• www.linkedin.com/in/jneyra
 
 ## Education
 	
