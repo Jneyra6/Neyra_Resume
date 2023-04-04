@@ -59,6 +59,7 @@ CIT 111: Introduction to Database	Rexburg, Idaho
 - Applied a DBMS (Database Management System) and CASE (Computer-Aided Software Engineering) tool
 - Transposed large amount of data with accuracy and speed within a months of work
 
+
 DS 350: Data Wrangling and Visualization		 Rexburg, Idaho
 
 C02 Emission Rate Around the World March 2023		March 2023
