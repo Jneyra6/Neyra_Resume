@@ -58,7 +58,16 @@ CIT 111: Introduction to Database	Rexburg, Idaho
 - Found records from a raw data set and used star schema in SQL to build a network to find information
 - Applied a DBMS (Database Management System) and CASE (Computer-Aided Software Engineering) tool
 - Transposed large amount of data with accuracy and speed within a months of work
+
+DS 350: Data Wrangling and Visualization		 Rexburg, Idaho
+
+C02 Emission Rate Around the World March 2023		March 2023
  
+- Removed and Replace Headers to accumulate for all for all for all of data
+- Wrangled data in a timeline format from 1990 to 2019 for better visuals
+- Demonstrated relations with levels on income in a country and amount of C02 produced
+- Illustrated relations between different countries over time and amount of C02 produced
+
 ## Technical Skills
 
 - SQL
