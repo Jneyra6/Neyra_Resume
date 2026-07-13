@@ -1,99 +1,187 @@
 # Joseph Neyra
-(801) 698 1255 | joseph12317916@gmail.com | [LinkedIn](https://www.linkedin.com/in/jneyra)
 
-## Technical Skills
-- SQL
-- Python: Machine Learning, Data Manipulation, Data Mining, Data Visualization
-- Power BI, Tableau: Data Mining, Data Manipulation, Data Visualization
-- R: Tidyverse, ggplot, base, rio, stringr - Data Visualization, Data Wrangling, Data Mining
-- Microsoft Excel: Power Query, VLOOKUP, INDEX(MATCH), Macro/VBA (basics), Pivot Tables, Data Manipulation
-- Microsoft Dynamics Customer Relationship Management (CRM)
-- HubSpot
+📍 Fort Mill, South Carolina  
+📞 (801) 698-1255  
+🔗 LinkedIn: https://www.linkedin.com/in/jneyra  
 
-## Work Experience
-### Student Academic Advisor
-August 2022 - Present
-BYU - Idaho: Pathway Connect Worldwide, Rexburg, Idaho
-- Provide personalized academic guidance to a diverse student cohort exceeding 500, enabling them to attain academic objectives and navigate their educational journeys.
-- Conduct focus career development workshops, equipping individuals with the essential skills and knowledge needed to excel in their professional pursuits.
-- Utilize Microsoft Dynamics 365 to assess customer needs, optimize services, and evaluate customer satisfaction in both English and Spanish interactions.
-- As an academic advisor, I developed customized academic plans for students that were tailored to their interests, strengths, and career aspirations.
+## About Me
 
-### Team Lead/Junior Analyst Intern
-July 2023 – September 2023
-Research and Business Development Center, Garden City, Utah
-- Enhanced survey effectiveness by reviewing and refining content for maximum relevance.
-- Initiated client consultations to establish clear goals, deliverables, and priorities.
-- Orchestrated development of in-person and online surveys, capturing nuanced insights from the community.
-- Utilized comprehensive city history and plans research to tailor survey strategies.
-- Managed an in-depth SWOT analysis, extracting valuable insights crucial for informed strategic decision-making.
-- Pioneered an innovative brand identity for Garden City, transforming its image.
-- Employed Power Query to clean and preprocess data, enabling deeper analysis and uncovering valuable insights.
-- Utilized Power BI to visually present findings from open-ended survey questions, enabling a deeper understanding of community sentiments and perspectives.
+Customer Data Platform Analyst specializing in **Customer Data Platforms (CDP), ETL pipelines, API integrations, marketing measurement, and customer analytics**. Experienced in building scalable data solutions that centralize customer information, improve data quality, automate reporting workflows, and enable data-driven marketing activation.
 
-### Startup Marketing Intern
-July 2023 – September 2023 (July 2023 - Present)
-Dr. Bauer Family Dental, Rexburg, Idaho
-- Developed and executed a comprehensive digital marketing strategy, enhancing online presence and brand awareness.
-- Optimized social media platforms (Facebook, Instagram, TikTok), resulting in notable audience engagement growth.
-- Conducted A/B testing on ad creatives, improving advertisement performance and boosting conversion rates.
-- Utilized Facebook and Instagram ad targeting features to engage local audiences.
-- Integrated email marketing, contributing to increased patient retention and repeat visits.
-- Implemented HubSpot CRM and website to enhance communication with potential clients, streamlining lead nurturing and contributing to increased patient acquisitions and practice revenue.
+Technical expertise includes **Teradata SQL, Snowflake, Python, Power BI, DOMO, Tableau, CRM systems, and data visualization tools**. Strong communicator who translates complex analysis into executive-ready insights, audience segmentation strategies, and actionable recommendations.
 
-## Certificates
-### Data Science
-April 2023
-Brigham Young University - Idaho, Rexburg Idaho
-- Establish a foundation in statistical modeling and mathematical reasoning.
-- Demonstrate capability in the core programming languages of a data science professional.
-- Do exploratory analyses of real-world data across varied domain applications.
-- Use machine learning and statistics for inferential decision making in business and science.
+**Languages:** English, Spanish
 
-## Education
-### Business Analytics - Bachelor of Science Degree
-September 2020 - December 2023
-Brigham Young University - Idaho, Rexburg, Idaho
-- Minor in Data Science
-- Data Science Society
+---
 
-## Academic Accomplishments
-### C02 Emission Rate Around the World
-March 2023
-DS 350: Data Wrangling and Visualization, Rexburg, Idaho
-- Removed and Replace Headers to accumulate for all for all for all of data.
-- Wrangled data in a timeline format from 1990 to 2019 for better visuals.
-- Explored correlation between a country's income levels and its corresponding CO2 emissions.
-- Visualized relationships between various countries over time and CO2 emissions.
+# Technical Skills
 
-### Foods and Stuff
-January 2023 - March 2023
-BA 315: Business Analytics, Rexburg, Idaho
-- Utilized DAX to develop informative visuals displaying year-over-year total sales changes categorized by products.
-- Designed an interactive dashboard to highlight sales fluctuations and potential company issues.
-- Forecasted company's progress in absence of changes and presented alternative solutions.
-- Outlined analyses for alternatives, showcasing potential outcomes, data insights, and strengths/challenges.
+### Data & Analytics
+- Teradata SQL
+- Snowflake
+- MySQL
+- SQL Server Management Studio (SSMS)
+- Python (Data Manipulation, Data Mining, Machine Learning, Visualization)
+- R (Tidyverse, ggplot, base, rio, stringr)
 
-### Finding relationships in baseball
-October 2022
-DS 250: Data Science Programming, Rexburg, Idaho
-- Led a client by developing SQL queries for data retrieval on a website, eliminating the need for Python.
-- Employed data manipulation libraries to conduct straightforward analysis, construct charts, and prepare data for machine learning algorithms.
-- Implemented machine learning libraries to gain insights, make predictions, and interpret algorithm success.
+### Business Intelligence & Visualization
+- Power BI
+- Tableau
+- DOMO
+- Executive Reporting Dashboards
+- Data Storytelling & Visualization
 
-### Capsim: Andrew 44
-April 2022 - July 2022
-BA 211: Business Fundamentals, Rexburg, Idaho
-- Managed data from a virtual multi-millionaire company, optimizing data organization for maximal business profit.
-- Collaborated in a team to simulate critical decision-making for a fictitious company.
-- Gained a strong grasp of fundamental concepts in marketing, finance, and operations management, especially within supply chain.
+### Marketing & Customer Data
+- Customer Data Platforms (CDP)
+- ETL Pipeline Development
+- API Integrations
+- Customer Identity Resolution
+- CRM Analytics
+- Audience Segmentation
+- Campaign Measurement
+- Marketing Attribution
 
-### University Data
-March 2022 - April 2022
-CIT 111: Introduction to Database, Rexburg, Idaho
-- Built a network by extracting information from a raw dataset using a star schema in SQL.
-- Accurately and efficiently transposed a significant amount of data within a few months, demonstrating strong data management and transformation skills.
-- Collaborated with team members to develop data-driven solutions and contributed to the effective utilization of database systems in various projects.
-- Leveraged SQL queries and database principles to retrieve valuable insights from complex datasets, facilitating informed decision-making processes for academic projects and assignments.
+### Additional Tools
+- Microsoft Dynamics CRM
+- Microsoft Excel
+  - Power Query
+  - Pivot Tables
+  - VLOOKUP
+  - INDEX/MATCH
+  - Basic VBA/Macros
 
-*References available upon request*
+---
+
+# Professional Experience
+
+## Customer Data Platform Analyst  
+### Six Flags Entertainment Corporation — Charlotte, NC  
+**May 2026 – Present**
+
+- Built and maintained ETL pipelines and API integrations to centralize customer data for marketing attribution and activation.
+- Automated data preparation and reporting workflows to improve efficiency and accelerate insight delivery.
+- Partnered with BI and engineering teams to validate data quality, resolve discrepancies, and improve reporting reliability.
+- Managed integrations across marketing technology platforms to ensure accurate customer data collection, transformation, and activation.
+- Standardized customer data models and documentation to support governance and scalable analytics.
+
+---
+
+## Customer Insights Analyst  
+### Six Flags Entertainment Corporation — Charlotte, NC  
+**July 2024 – May 2026**
+
+- Designed campaign measurement frameworks, including tagging strategies and learning objectives to improve performance tracking.
+- Monitored multi-channel marketing performance and delivered executive-ready reporting with optimization recommendations.
+- Analyzed customer, sales, and product data to identify purchasing behaviors and engagement trends.
+- Supported audience segmentation initiatives through customer dataset preparation and campaign lift analysis.
+- Delivered ad-hoc analyses and presentations highlighting campaign effectiveness and business opportunities.
+- Collaborated with Marketing, Analytics, and BI teams to improve measurement, targeting, and reporting processes.
+
+---
+
+## Database Analyst I  
+### Palms Casino Resort — Las Vegas, NV  
+**October 2023 – June 2024**
+
+- Developed Power BI dashboards and Power Query transformations to provide actionable insights for business stakeholders.
+- Built analytical data models using Teradata SQL to support marketing and database strategies.
+- Conducted campaign performance analyses, including post-campaign and pro-forma evaluations.
+- Created offer matrices connecting promotions with customer segments to improve targeting strategies.
+- Delivered high-priority ad-hoc analyses supporting operational and strategic decisions.
+- Partnered with stakeholders to translate business needs into measurable analytical solutions.
+
+---
+
+## Student Academic Advisor  
+### BYU-Idaho: Pathway Connect Worldwide — Rexburg, ID  
+**August 2022 – September 2023**
+
+- Advised over 500 students from diverse backgrounds in achieving academic and career goals.
+- Conducted career development workshops focused on professional growth.
+- Utilized Microsoft Dynamics 365 CRM to improve customer service operations in English and Spanish.
+- Developed personalized academic plans aligned with student goals and career aspirations.
+
+---
+
+# Education
+
+## Brigham Young University - Idaho  
+**Bachelor of Science — Business Analytics**  
+Rexburg, Idaho  
+**September 2020 – December 2023**
+
+Minor: Data Science
+
+---
+
+# Internships
+
+## Team Lead / Junior Analyst Intern  
+### Research and Business Development Center — Garden City, UT  
+**July 2023 – September 2023**
+
+- Improved survey effectiveness through content refinement and customer research.
+- Led client consultations to define project goals, priorities, and deliverables.
+- Developed community surveys and analyzed collected insights.
+- Conducted SWOT analysis to support strategic decision-making.
+- Created marketing materials and supported website development initiatives.
+- Helped establish a new brand identity for Garden City.
+
+---
+
+## Team Lead / Junior Analyst Intern  
+### Dr. Bauer Family Dental — Rexburg, ID  
+**July 2023 – September 2023**
+
+- Developed digital marketing strategies to improve online presence and brand awareness.
+- Optimized social media channels including Facebook, Instagram, and TikTok.
+- Conducted A/B testing on advertising creatives to improve campaign performance.
+- Leveraged audience targeting tools to reach local customers.
+- Implemented email marketing strategies to improve retention and customer acquisition.
+
+---
+
+# High Impact Projects
+
+## Predictive Direct Mail Optimization Model
+
+- Designed a predictive targeting model using demographic, transactional, and behavioral data to optimize season-pass acquisition campaigns.
+- Built data pipelines to collect, clean, and score customer records.
+- Developed propensity models estimating customer purchase likelihood after receiving direct mail.
+- Created incremental response segments:
+  - Likely purchasers without marketing influence
+  - Mail-influenced purchasers
+  - Non-responders
+  - Existing purchasers
+- Partnered with Marketing teams to reduce unnecessary mail volume while maintaining campaign performance.
+- Delivered a data-driven optimization strategy generating multi-million-dollar marketing budget savings.
+
+---
+
+## Customer Identity Resolution & Enterprise Data Integration
+
+- Led business design efforts for customer identity resolution following the Six Flags–Cedar Fair merger.
+- Created business rules for persistent customer identifiers (`Indiv_Key`) to deduplicate and connect customer records.
+- Collaborated with IT and development teams to translate requirements into scalable Snowflake data models.
+- Defined data requirements supporting analytics, reporting, marketing activation, and finance use cases.
+- Authored Snowflake Notebook documentation covering business rules, mappings, and architecture decisions.
+
+---
+
+## Executive Season Pass Performance & Renewal Analytics
+
+- Designed automated quarterly business reviews using Snowflake Notebooks and executive dashboards.
+- Developed year-over-year analysis comparing season-pass purchases, renewals, and redemption trends.
+- Analyzed renewal behavior including:
+  - Upgrades
+  - Downgrades
+  - Like-for-like renewals
+- Created DMA-level distance-to-park analysis to understand customer markets and regional performance.
+- Automated reporting workflows and delivered executive-ready visualizations supporting pricing and retention strategies.
+
+---
+
+# Contact
+
+📧 Available through LinkedIn  
+🔗 https://www.linkedin.com/in/jneyra
