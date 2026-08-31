@@ -10,7 +10,7 @@
 
 Customer Data Platform Analyst specializing in Customer Data Platforms (CDP), customer identity resolution, analytics engineering, ETL/ELT development, API integrations, and marketing analytics. Experienced in designing scalable data solutions that centralize customer information, automate reporting processes, improve data quality, and enable data-driven decision making.
 
-Technical expertise includes Snowflake, dbt, SQL, Python, Power BI, Tableau, CRM systems, and enterprise data modeling. Strong communicator who translates complex analytical findings into executive-ready insights, audience segmentation strategies, and actionable business recommendations.
+Technical expertise includes Snowflake, dbt, SQL, Python, Power BI, Tableau, CRM systems, enterprise data modeling, and customer identity resolution. Strong communicator who translates complex analytical findings into executive-ready insights, audience segmentation strategies, and actionable business recommendations.
 
 **Languages:** English, Spanish
 
@@ -46,7 +46,7 @@ Technical expertise includes Snowflake, dbt, SQL, Python, Power BI, Tableau, CRM
 - Customer Identity Resolution
 - CRM Analytics
 - Audience Segmentation
--Marketing Attribution
+- Marketing Attribution
 - Campaign Measurement
 - Data Governance
 - Customer 360 Strategy
@@ -120,7 +120,7 @@ Rexburg, Idaho
 Minor: Data Science
 
 ---
-
+<!--
 # Internships
 
 ## Team Lead / Junior Analyst Intern  
@@ -147,14 +147,17 @@ Minor: Data Science
 - Implemented email marketing strategies to improve retention and customer acquisition.
 
 ---
+-->
 
 # High Impact Projects
 
 ## 0/1 Visit Season Pass Engagement Campaign
 
+📁 [View Project Details](Project/0_1_Visit_ADME.md
+
 - Designed Snowflake and dbt-based audience segmentation framework targeting over 200K season pass holders with zero or one park visit.
 - Enabled personalized retention campaigns across email and paid social channels.
-- Delivered campaign measurement reporting that showed approximately 40K targeted passholders returned to a park during the campaign period.
+- Developed campaign performance reporting that tracked approximately 40K targeted passholders who subsequently visited a park during the campaign period.
 
 <!--
 ## Predictive Direct Mail Optimization Model
