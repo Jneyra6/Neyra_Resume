@@ -8,51 +8,52 @@
 
 ## About Me
 
-Customer Data Platform Analyst specializing in **Customer Data Platforms (CDP), ETL pipelines, API integrations, marketing measurement, and customer analytics**. Experienced in building scalable data solutions that centralize customer information, improve data quality, automate reporting workflows, and enable data-driven marketing activation.
+Customer Data Platform Analyst specializing in Customer Data Platforms (CDP), customer identity resolution, analytics engineering, ETL/ELT development, API integrations, and marketing analytics. Experienced in designing scalable data solutions that centralize customer information, automate reporting processes, improve data quality, and enable data-driven decision making.
 
-Technical expertise includes **Teradata SQL, Snowflake, Python, Power BI, DOMO, Tableau, CRM systems, and data visualization tools**. Strong communicator who translates complex analysis into executive-ready insights, audience segmentation strategies, and actionable recommendations.
+Technical expertise includes Snowflake, dbt, SQL, Python, Power BI, Tableau, CRM systems, and enterprise data modeling. Strong communicator who translates complex analytical findings into executive-ready insights, audience segmentation strategies, and actionable business recommendations.
 
 **Languages:** English, Spanish
+
 
 ---
 
 # Technical Skills
 
-Data Platforms & Databases
-• Snowflake
-• Teradata SQL
-• MySQL
-• SQL Server Management Studio (SSMS)
+### Data Platforms & Databases
+- Snowflake
+- Teradata SQL
+- MySQL
+- SQL Server Management Studio (SSMS)
 
-Programming & Analytics
-• Python
-• R
-• dbt (Data Build Tool)
-• Data Modeling
-• Analytics Engineering
+### Programming & Analytics
+- Python
+- R
+- dbt (Data Build Tool)
+- Data Modeling
+- Analytics Engineering
 
-Business Intelligence & Visualization
-• Power BI
-• Tableau
-• DOMO
-• Executive Reporting Dashboards
-• Data Storytelling & Visualization
+### Business Intelligence & Visualization
+- Power BI
+- Tableau
+- DOMO
+- Executive Reporting Dashboards
+- Data Storytelling & Visualization
 
-Customer Data & Marketing Technology
-• Customer Data Platforms (CDP)
-• ETL / ELT Development
-• API Integrations
-• Customer Identity Resolution
-• CRM Analytics
-• Audience Segmentation
-• Marketing Attribution
-• Campaign Measurement
-• Data Governance
-• Customer 360 Strategy
+### Customer Data & Marketing Technology
+- Customer Data Platforms (CDP)
+- ETL / ELT Development
+- API Integrations
+- Customer Identity Resolution
+- CRM Analytics
+- Audience Segmentation
+-Marketing Attribution
+- Campaign Measurement
+- Data Governance
+- Customer 360 Strategy
 
-Additional Tools
-• Microsoft Dynamics CRM
-• Microsoft Excel (Power Query, Pivot Tables, VBA)
+### Additional Tools
+- Microsoft Dynamics CRM
+- Microsoft Excel (Power Query, Pivot Tables, VBA)
 
 ---
 
@@ -149,6 +150,13 @@ Minor: Data Science
 
 # High Impact Projects
 
+## 0/1 Visit Season Pass Engagement Campaign
+
+- Designed Snowflake and dbt-based audience segmentation framework targeting over 200K season pass holders with zero or one park visit.
+- Enabled personalized retention campaigns across email and paid social channels.
+- Delivered campaign measurement reporting that showed approximately 40K targeted passholders returned to a park during the campaign period.
+
+<!--
 ## Predictive Direct Mail Optimization Model
 
 - Designed a predictive targeting model using demographic, transactional, and behavioral data to optimize season-pass acquisition campaigns.
@@ -161,12 +169,14 @@ Minor: Data Science
   - Existing purchasers
 - Partnered with Marketing teams to reduce unnecessary mail volume while maintaining campaign performance.
 - Delivered a data-driven optimization strategy generating multi-million-dollar marketing budget savings.
+-->
+
 
 ---
 
 ## Customer Identity Resolution & Enterprise Data Integration
 
-- Led business design efforts for customer identity resolution following the Six Flags–Cedar Fair merger.
+- Led business requirements and data-design efforts for enterprise customer identity resolution following the Six Flags–Cedar Fair merger, enabling the unification of customer records across legacy systems.
 - Created business rules for persistent customer identifiers (`Indiv_Key`) to deduplicate and connect customer records.
 - Collaborated with IT and development teams to translate requirements into scalable Snowflake data models.
 - Defined data requirements supporting analytics, reporting, marketing activation, and finance use cases.
@@ -185,9 +195,3 @@ Minor: Data Science
 - Created DMA-level distance-to-park analysis to understand customer markets and regional performance.
 - Automated reporting workflows and delivered executive-ready visualizations supporting pricing and retention strategies.
 
----
-
-# Contact
-
-📧 Available through LinkedIn  
-🔗 https://www.linkedin.com/in/jneyra
