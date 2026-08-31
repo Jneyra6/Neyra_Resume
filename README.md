@@ -153,9 +153,9 @@ Minor: Data Science
 
 ## 0/1 Visit Season Pass Engagement Campaign
 
-📁 [View Project Details](Project/0_1_Visit_ADME.md
+🔗 **Project Repository:** [View Project](Project/0_1_Visit_Season_Pass_Campaign)
 
-- Designed Snowflake and dbt-based audience segmentation framework targeting over 200K season pass holders with zero or one park visit.
+lake and dbt-based audience segmentation framework targeting over 200K season pass holders with zero or one park visit.
 - Enabled personalized retention campaigns across email and paid social channels.
 - Developed campaign performance reporting that tracked approximately 40K targeted passholders who subsequently visited a park during the campaign period.
 
