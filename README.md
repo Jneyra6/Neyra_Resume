@@ -2,7 +2,9 @@
 
 📍 Fort Mill, South Carolina  
 📞 (801) 698-1255  
-🔗 LinkedIn: https://www.linkedin.com/in/jneyra  
+📧 joseph12317916@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/jneyra
+
 
 ## About Me
 
@@ -54,15 +56,17 @@ Technical expertise includes **Teradata SQL, Snowflake, Python, Power BI, DOMO, 
 
 # Professional Experience
 
-## Customer Data Platform Analyst  
-### Six Flags Entertainment Corporation — Charlotte, NC  
+## Customer Data Platform Analyst
+### Six Flags Entertainment Corporation — Charlotte, NC
 **May 2026 – Present**
 
-- Built and maintained ETL pipelines and API integrations to centralize customer data for marketing attribution and activation.
-- Automated data preparation and reporting workflows to improve efficiency and accelerate insight delivery.
-- Partnered with BI and engineering teams to validate data quality, resolve discrepancies, and improve reporting reliability.
-- Managed integrations across marketing technology platforms to ensure accurate customer data collection, transformation, and activation.
-- Standardized customer data models and documentation to support governance and scalable analytics.
+- Designed and implemented scalable analytics pipelines using dbt and Snowflake to support executive reporting, customer analytics, and marketing measurement initiatives.
+- Developed dynamic tables and reusable data models that automated reporting workflows and ensured consistent business logic across analytical applications.
+- Built and maintained ETL processes and API integrations to consolidate customer data from multiple source systems into a centralized analytics environment.
+- Partnered with business stakeholders, analysts, and engineers to define requirements and deliver trusted datasets for reporting and activation.
+- Improved data quality through validation processes, monitoring, and documentation of critical customer and transactional data assets.
+- Maintained customer data integrations supporting audience segmentation, attribution modeling, and campaign performance measurement.
+- Established data standards and documentation to support governance, scalability, and long-term platform sustainability.
 
 ---
 
