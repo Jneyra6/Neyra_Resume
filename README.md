@@ -18,39 +18,41 @@ Technical expertise includes **Teradata SQL, Snowflake, Python, Power BI, DOMO, 
 
 # Technical Skills
 
-### Data & Analytics
-- Teradata SQL
-- Snowflake
-- MySQL
-- SQL Server Management Studio (SSMS)
-- Python (Data Manipulation, Data Mining, Machine Learning, Visualization)
-- R (Tidyverse, ggplot, base, rio, stringr)
+Data Platforms & Databases
+• Snowflake
+• Teradata SQL
+• MySQL
+• SQL Server Management Studio (SSMS)
 
-### Business Intelligence & Visualization
-- Power BI
-- Tableau
-- DOMO
-- Executive Reporting Dashboards
-- Data Storytelling & Visualization
+Programming & Analytics
+• Python
+• R
+• dbt (Data Build Tool)
+• Data Modeling
+• Analytics Engineering
 
-### Marketing & Customer Data
-- Customer Data Platforms (CDP)
-- ETL Pipeline Development
-- API Integrations
-- Customer Identity Resolution
-- CRM Analytics
-- Audience Segmentation
-- Campaign Measurement
-- Marketing Attribution
+Business Intelligence & Visualization
+• Power BI
+• Tableau
+• DOMO
+• Executive Reporting Dashboards
+• Data Storytelling & Visualization
 
-### Additional Tools
-- Microsoft Dynamics CRM
-- Microsoft Excel
-  - Power Query
-  - Pivot Tables
-  - VLOOKUP
-  - INDEX/MATCH
-  - Basic VBA/Macros
+Customer Data & Marketing Technology
+• Customer Data Platforms (CDP)
+• ETL / ELT Development
+• API Integrations
+• Customer Identity Resolution
+• CRM Analytics
+• Audience Segmentation
+• Marketing Attribution
+• Campaign Measurement
+• Data Governance
+• Customer 360 Strategy
+
+Additional Tools
+• Microsoft Dynamics CRM
+• Microsoft Excel (Power Query, Pivot Tables, VBA)
 
 ---
 
